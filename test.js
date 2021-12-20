@@ -1,10 +1,54 @@
-// console.log('$ROOT_QUERY.accommodations({\"input\":{\"deviceType\":\"pcmap\",\"display\":50,\"query\":\"캠핑장\",\"sortingOrder\":\"precision\",\"start\":1}})')
-// console.log('{"total":4267,"items":[{"type":"id","generated":false,"id":"AccommodationSummary:1741794426","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:38509343","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1277518395","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:35644668","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1603157357","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1029047102","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1665394852","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1995649140","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:11701945","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:21868859","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:35781576","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1460523479","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:12181061","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:11818239","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:35412997","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1977750280","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:19998427","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1690411278","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:36444900","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:12948948","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1761894360","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1998403279","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:35069816","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:17457361","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1172986285","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1867586624","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1306096685","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1126871443","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1478617699","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1377507590","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1890219157","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:35494884","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:36516869","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:95384632","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:11491053","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1136482064","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:35452170","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1276896234","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1284795401","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:563869836","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:11664164","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:36643760","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:12884668","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1310216107","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:32473489","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:37130243","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1708693438","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:32587966","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:36908798","typename":"AccommodationSummary"},{"type":"id","generated":false,"id":"AccommodationSummary:1717939951","typename":"AccommodationSummary"}],"nlu":{"type":"id","generated":true,"id":"$ROOT_QUERY.accommodations({\"input\":{\"deviceType\":\"pcmap\",\"display\":50,\"query\":\"캠핑장\",\"sortingOrder\":\"precision\",\"start\":1}}).nlu","typename":"Nlu"},"optionsForMap":{"type":"id","generated":true,"id":"$ROOT_QUERY.accommodations({\"input\":{\"deviceType\":\"pcmap\",\"display\":50,\"query\":\"캠핑장\",\"sortingOrder\":\"precision\",\"start\":1}}).optionsForMap","typename":"OptionsForMap"},"__typename":"AccommodationListResult"}')
-const test = '"AccommodationSummary:1741794426":{"id":"1741794426","name":"글램비 글램핑","businessCategory":"camping","categoryCode":"221950","category":null,"description":null,"hasBooking":true,"hasNPay":true,"x":"126.6282444","y":"37.1697885","distance":"","imageUrls":{"type":"json","json":["https:\u002F\u002Fldb-phinf.pstatic.net\u002F20180712_197\u002F15313722371548N4L5_JPEG\u002F02rZRBQz5AzUMCR8AKvEK91X.jpg","https:\u002F\u002Fldb-phinf.pstatic.net\u002F20210812_246\u002F1628743953798DdUxn_JPEG\u002FIMG_2073.JPG","https:\u002F\u002Fldb-phinf.pstatic.net\u002F20210128_74\u002F1611826246518ab3uE_JPEG\u002FKYG70026.jpg"]},"imageUrl":"https:\u002F\u002Fldb-phinf.pstatic.net\u002F20180712_197\u002F15313722371548N4L5_JPEG\u002F02rZRBQz5AzUMCR8AKvEK91X.jpg","imageCount":23,"phone":"010-5023-6566","virtualPhone":"0507-1324-7263","routeUrl":"https:\u002F\u002Fm.search.naver.com\u002Fsearch.naver?where=m&query=%EB%B9%A0%EB%A5%B8%EA%B8%B8%EC%B0%BE%EA%B8%B0&nso_path=placeType%5Eplace%3Bname%5E%3Baddress%5E%3Blatitude%5E%3Blongitude%5E%3Bcode%5E%7Ctype%5Eplace%3Bname%5E%EA%B8%80%EB%9E%A8%EB%B9%84%20%EA%B8%80%EB%9E%A8%ED%95%91%3Baddress%5E%3Bcode%5E1741794426%3Blongitude%5E126.6282444%3Blatitude%5E37.1697885%7Cobjtype%5Epath%3Bby%5Epubtrans","streetPanorama":{"type":"id","generated":false,"id":"Panorama:mUNXqucwHA5QlsPgyPHnuA==","typename":"Panorama"},"roadAddress":"경기 화성시 서신면 해안길 64","address":"제부리 20-15","commonAddress":"경기 화성시 서신면","blogCafeReviewCount":"579","bookingReviewCount":"3,106","bookingReviewScore":0,"totalReviewCount":"3,685","bookingUrl":null,"bookingBusinessId":null,"talktalkUrl":null,"options":null,"promotionTitle":"","agencyId":"0","matchRoomMinPrice":"98000","avgPrice":null,"interiorPanorama":"","matchSidRoomIds":null,"bookingUserCount":"817","facility":{"type":"json","json":["글램핑,카라반,바비큐장,와이파이,잔디,바닷가,갯벌"]},"placeReviewCount":3207,"placeReviewScore":4.06,"__typename":"AccommodationSummary"},"Panorama:mUNXqucwHA5QlsPgyPHnuA==":{"id":"mUNXqucwHA5QlsPgyPHnuA==","pan":"-84.74","tilt":"10.00","lat":"37.1697707","lon":"126.6284361","__typename":"Panorama"}'
+const fs = require('fs')
 
-// const re = /"AccommodationSummary:(\d*)":[^[}]+{[^[}]+}/g;
-const re = /"AccommodationSummary:(\d*)":{}/g;
 
-re = /[^[}]+{[^[}]+}/
-const result = re.exec(test)
-console.log(result)
+const re = /"AccommodationSummary:\d*":{/g;
+
+fs.readFile('output.html', {encoding: 'utf-8'}, (err, data)=>{
+    if(err) throw err
+
+    const accList = []
+    let acc
+    
+    do {
+        acc = re.exec(data)
+        if(acc) {
+            console.log(acc)
+            let accInfo = findValue(acc, data)
+            if(accInfo?.businessCategory==='camping') {
+                accList.push(accInfo)
+            }
+        }
+    } while(acc)
+  
+    console.log(accommodations)
+})
+
+
+function findValue(key, data) {
+        
+    let bracketStart = null
+    let bracketEnd = null
+    let opened = 0
+    for(let i=key.index+key[0].length-1; i<data.length && !bracketEnd; ++i) {
+        if(!bracketStart) {
+            if(data[i]==='{') {
+                bracketStart = i     
+                ++opened
+            }
+        } else {
+            if(data[i]==='}') {
+                --opened
+                if(opened===0) {
+                    bracketEnd = i+1
+                }
+            } else if(data[i]==='{') {
+                ++opened
+            }
+        }
+    }  
+    if(bracketStart&&bracketEnd) {
+        json = JSON.parse(data.substring(bracketStart, bracketEnd))
+        return json
+    }
+    return null
+}
